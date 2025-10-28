@@ -22,6 +22,6 @@ Using historical player and team data, the model leverages machine learning tech
 | File Name | Description |
 |------------|-------------|
 | `soccer_analysis.py` | Main analysis & prediction script |
-| `player_stats.csv` | Historical player performance data |
-| `teams_data.csv` | Team information & mapping |
+| `soccer_project.db` | Database for SQL analysis |
+| `Excel filed` | UCL Information |
 
