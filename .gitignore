@@ -1,0 +1,30 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env/
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# macOS system files
+.DS_Store
+
+# SQLite database
+*.db
+
+# CSV and data files (if large)
+data/
+*.csv
+
+# Output images and reports
+*.png
+*.jpg
+*.jpeg
+
+# Logs
+*.log
